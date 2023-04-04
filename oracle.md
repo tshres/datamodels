@@ -1,1 +1,1 @@
-Oracle (https://www.oracle.com/database/) is an open source database that is used for online processing, and data warehousing. 
+Oracle (https://www.oracle.com/database/) is an open source database that is used for online processing, and data warehousing. Oracle is an object-relational data model, and this allows it to have fast quieres, fast commits, backup, recovery, and more. Oracle supports hosting models, which includes client/server, embedded, cloud, and local. Java or Python can access it by using Oracle Instant Client.

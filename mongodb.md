@@ -1,1 +1,1 @@
-hello
+MongoDB (https://www.mongodb.com/) is an open source database that allows for developers to store data. MongoDB  has two kinds of data models, and this includes Embedded data model and Normalized data model. Also, MongoDB supports hosting models, such as embedded and cloud. To add on, Java and Python can access it through APIs, or an IDE.
