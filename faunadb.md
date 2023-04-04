@@ -1,0 +1,1 @@
+FaunaDB (https://fauna.com/home) is a commercial database system that is flexible, and provides secure, salable data. FaunaDB is an object-relational data model, in which data is stored in tables. The hosting model of FaunaDB is in cloud. It can be accessed through the internet. With client/server application, Java and Python can access FaunaDB.

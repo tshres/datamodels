@@ -1,0 +1,1 @@
+CouchDB (https://couchdb.apache.org/) is an open-source project, that stores data in a safe way. CouchDB uses a schema-free data model, which simplifies the data across different application types. Next, CouchDB supports a hosting model which is, client/server. Java and Python can access CouchDB through SDKs or APIs.

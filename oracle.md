@@ -1,0 +1,1 @@
+Oracle (https://www.oracle.com/database/) is an open source database that is used for online processing, and data warehousing. 

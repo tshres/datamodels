@@ -1,0 +1,1 @@
+MarinaDB (https://mariadb.org/) is an open-source database that was made by the developers of MySQL. MariaDB is a regional data model as well. Additionally, MariaDB supports many hosting models including, cloud, local, client/server, and embedded. Java and Python can access MariaDB with libraries that connects to it.
